@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn react, say hello to everyone! 2022年02月25日
         </a>
       </header>
     </div>
